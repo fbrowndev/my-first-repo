@@ -1,0 +1,6 @@
+#local enviroment files
+.env*
+
+#files
+*.css
+*.js
